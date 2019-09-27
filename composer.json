@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mevdschee/php-crud-api": "^2.5",
+        "slim/slim": "^4.0"
+    }
+}
